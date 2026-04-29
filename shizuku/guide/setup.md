@@ -1,6 +1,6 @@
 # User manual
 
-[[toc]]
+[[toc]]REDMI 15c 
 
 ## Start Shizuku
 
